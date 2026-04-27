@@ -57,6 +57,8 @@ CREATE TABLE sightings (
 );
 
 # Creating a trigger to set the correct category in sightings when inserting a new sighting based on the category from species_reference for the corresponding species_name
+# I implemented this because species_name is a foreign key in the sightings table but the scenario brief wants both species_name and species_category stored in the sightings table
+# Without this the volunteer can mistakenly enter the wrong category for the species sighted
 DELIMITER $$
 CREATE TRIGGER before_sightings_insert
 BEFORE INSERT ON sightings
