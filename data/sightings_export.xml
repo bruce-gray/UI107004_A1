@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE site SYSTEM "sightings_schema.dtd">
+<site>
+    <site_id>SS003</site_id>
+    <site_name>Rothiemurchus Forest</site_name>
+    <region>Cairngorms</region>
+    <habitat_type>Woodland</habitat_type>
+    <export_date>2026-04-28</export_date>
+    <sightings>
+        <sighting id="SG001">
+            <species_name>Red Squirrel</species_name>
+            <species_category>Mammal</species_category>
+            <is_priority>true</is_priority>
+            <count>2</count>
+            <date>2025-03-15</date>
+            <observer>Eilidh MacLeod</observer>
+            <weather_conditions>Clear</weather_conditions>
+            <notes>Spotted near the pine stand</notes>
+            <photo_submitted>true</photo_submitted>
+        </sighting>
+        <sighting id="SG003">
+            <species_name>Pine Marten</species_name>
+            <species_category>Mammal</species_category>
+            <is_priority>false</is_priority>
+            <count>1</count>
+            <date>2025-03-15</date>
+            <observer>Eilidh MacLeod</observer>
+            <weather_conditions>Clear</weather_conditions>
+            <notes>Crossing the forest track</notes>
+            <photo_submitted>false</photo_submitted>
+        </sighting>
+        <sighting id="SG013">
+            <species_name>Red Squirrel</species_name>
+            <species_category>Mammal</species_category>
+            <is_priority>true</is_priority>
+            <count>1</count>
+            <date>2025-04-07</date>
+            <observer>Eilidh MacLeod</observer>
+            <weather_conditions>Clear</weather_conditions>
+            <notes></notes>
+            <photo_submitted>false</photo_submitted>
+        </sighting>
+        <sighting id="SG014">
+            <species_name>Pine Marten</species_name>
+            <species_category>Mammal</species_category>
+            <is_priority>false</is_priority>
+            <count>1</count>
+            <date>2025-04-07</date>
+            <observer>Tormod Nicolson</observer>
+            <weather_conditions>Clear</weather_conditions>
+            <notes>Resting in tree hollow</notes>
+            <photo_submitted>true</photo_submitted>
+        </sighting>
+        <sighting id="SG025">
+            <species_name>Red Squirrel</species_name>
+            <species_category>Mammal</species_category>
+            <is_priority>true</is_priority>
+            <count>4</count>
+            <date>2026-04-09</date>
+            <observer>Calum Ross</observer>
+            <weather_conditions>Clear</weather_conditions>
+            <notes>Busy feeding day</notes>
+            <photo_submitted>true</photo_submitted>
+        </sighting>
+    </sightings>
+</site>
