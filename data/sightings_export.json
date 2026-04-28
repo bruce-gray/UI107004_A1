@@ -1,0 +1,71 @@
+{
+    "site": {
+        "site_id": "SS003",
+        "site_name": "Rothiemurchus Forest",
+        "region": "Cairngorms",
+        "habitat_type": "Woodland",
+        "export_date": "2026-04-28",
+        "sightings": [
+            {
+                "sighting_id": "SG001",
+                "species_name": "Red Squirrel",
+                "species_category": "Mammal",
+                "is_priority": true,
+                "count": 2,
+                "date": "2025-03-15",
+                "observer": "Eilidh MacLeod",
+                "weather_conditions": "Clear",
+                "notes": "Spotted near the pine stand",
+                "photo_submitted": true
+            },
+            {
+                "sighting_id": "SG003",
+                "species_name": "Pine Marten",
+                "species_category": "Mammal",
+                "is_priority": false,
+                "count": 1,
+                "date": "2025-03-15",
+                "observer": "Eilidh MacLeod",
+                "weather_conditions": "Clear",
+                "notes": "Crossing the forest track",
+                "photo_submitted": false
+            },
+            {
+                "sighting_id": "SG013",
+                "species_name": "Red Squirrel",
+                "species_category": "Mammal",
+                "is_priority": true,
+                "count": 1,
+                "date": "2025-04-07",
+                "observer": "Eilidh MacLeod",
+                "weather_conditions": "Clear",
+                "notes": null,
+                "photo_submitted": false
+            },
+            {
+                "sighting_id": "SG014",
+                "species_name": "Pine Marten",
+                "species_category": "Mammal",
+                "is_priority": false,
+                "count": 1,
+                "date": "2025-04-07",
+                "observer": "Tormod Nicolson",
+                "weather_conditions": "Clear",
+                "notes": "Resting in tree hollow",
+                "photo_submitted": true
+            },
+            {
+                "sighting_id": "SG025",
+                "species_name": "Red Squirrel",
+                "species_category": "Mammal",
+                "is_priority": true,
+                "count": 4,
+                "date": "2026-04-09",
+                "observer": "Calum Ross",
+                "weather_conditions": "Clear",
+                "notes": "Busy feeding day",
+                "photo_submitted": true
+            }
+        ]
+    }
+}
